@@ -154,9 +154,3 @@ Issued by the Intellectual Property Office UK, Dec 2025 · Skills: AutoCAD, 3D M
 ## Languages
 
 English (Native/Bilingual) · French (Limited Working Proficiency)
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetaPatil&show_icons=true&theme=dark&hide_title=true&bg_color=2b1250&title_color=FF6EC7&icon_color=FF6EC7&text_color=FF6EC7" />
-</p>
