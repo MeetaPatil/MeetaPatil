@@ -1,164 +1,162 @@
-
 <p align="center">
-  <img src="./banner.jpg" width="100%" alt="meeta patil banner" />
+  <img src="./banner.jpg" width="100%" alt="Meeta Patil banner" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/meeta-patil/">
-    <img src="https://img.shields.io/badge/linkedin-FF9ECD?style=flat-square&logo=linkedin&logoColor=2B0A3D&labelColor=2B0A3D" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=flat-square&logo=linkedin&logoColor=2b1250&labelColor=2b1250" />
   </a>
 </p>
 
 <br>
 
-## a bit about me
+## A Bit About Me
 
-third-year btech student in electronics and computer engineering at k.j. somaiya college of engineering (2024–2028), currently building at the software development cell (swdc, kjsse) as a web developer.
+Third-year BTech student in Electronics and Computer Engineering at K.J. Somaiya College of Engineering (2024–2028), currently building at the Software Development Cell (SwDC, KJSSE) as a Web Developer.
 
-i work across hardware and software — from embedded systems and lidar-based autonomous vehicles to python/ml projects and business analysis. holder of **5 uk design patents** in robotics, autonomous systems, and mechanical design.
+I work across hardware and software — from embedded systems and LiDAR-based autonomous vehicles to Python/ML projects and business analysis. Holder of **5 UK Design Patents** in Robotics, Autonomous Systems, and Mechanical Design.
 
-i like building things that solve practical problems with data and algorithms — from optimizing scarce resources like [hospital beds](https://github.com/MeetaPatil/medialloc) to modeling financial risk in [risklens](https://github.com/MeetaPatil/RiskLens), alongside classic dsa and application projects in c and java.
+I like building things that solve practical problems with data and algorithms — from optimizing scarce resources like [Medialloc](https://github.com/MeetaPatil/medialloc) to modeling financial risk in [RiskLens](https://github.com/MeetaPatil/RiskLens), alongside classic DSA and application projects in C and Java.
 
 <br>
 
-## experience
+## Experience
 
 <table>
   <tr>
     <td width="100%">
-      <b>web developer</b> — software development cell (swdc), kjsse <i>· jun 2026 – present</i><br>
-      remote, mumbai
+      <b>Web Developer</b> — Software Development Cell (SwDC), KJSSE <i>· Jun 2026 – Present</i><br>
+      Remote, Mumbai
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <b>summer intern</b> — kj somaiya college of engineering <i>· may 2026 – jun 2026</i><br>
-      python, embedded systems, machine learning, opencv
+      <b>Summer Intern</b> — K.J. Somaiya College of Engineering <i>· May 2026 – Jun 2026</i><br>
+      Python, Embedded Systems, Machine Learning, OpenCV
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <b>software &amp; iot development intern</b> — sani electronics <i>· dec 2025 – jan 2026</i><br>
-      built an iot prototype on esp8266 for real-time data acquisition; python-based sensor data pipelines
+      <b>Software & IoT Development Intern</b> — Sani Electronics <i>· Dec 2025 – Jan 2026</i><br>
+      Built an IoT prototype on ESP8266 for real-time data acquisition; Python-based sensor data pipelines
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <b>project intern</b> — kj somaiya college of engineering <i>· sep 2025 – dec 2025</i><br>
-      contributed to autonomous vehicle sensor systems — lidar, 3d printing
+      <b>Project Intern</b> — K.J. Somaiya College of Engineering <i>· Sep 2025 – Dec 2025</i><br>
+      Contributed to autonomous vehicle sensor systems — LiDAR, 3D printing
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <b>startup analyst</b> — bioriidl <i>· dec 2024 – feb 2025</i><br>
-      business analysis, financial analysis
+      <b>Startup Analyst</b> — Bioriidl <i>· Dec 2024 – Feb 2025</i><br>
+      Business Analysis, Financial Analysis
     </td>
   </tr>
 </table>
 
 <br>
 
-## what i work with
+## What I Work With
 
-<h3 align="center">languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=FF9ECD" />
-  <img src="https://img.shields.io/badge/c-000000?style=flat-square&logo=c&logoColor=C9A8FF" />
-  <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=openjdk&logoColor=9ECBFF" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF6EC7" />
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FF6EC7" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=FF6EC7" />
 </p>
 
-<h3 align="center">embedded &amp; hardware</h3>
+<h3 align="center">Embedded & Hardware</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/esp32-FF9ECD?style=flat-square&logo=espressif&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/esp8266-FF9ECD?style=flat-square&logo=espressif&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/arduino-FF9ECD?style=flat-square&logo=arduino&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/lidar-FF9ECD?style=flat-square&labelColor=2b1250" />
-  <img src="https://img.shields.io/badge/autocad-FF9ECD?style=flat-square&logo=autocad&logoColor=2B0A3D&labelColor=2B0A3D" />
+  <img src="https://img.shields.io/badge/ESP32-FF6EC7?style=flat-square&logo=espressif&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/ESP8266-FF6EC7?style=flat-square&logo=espressif&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/Arduino-FF6EC7?style=flat-square&logo=arduino&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/LiDAR-FF6EC7?style=flat-square&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/AutoCAD-FF6EC7?style=flat-square&logo=autocad&logoColor=2b1250&labelColor=2b1250" />
 </p>
 
-<h3 align="center">libraries &amp; frameworks</h3>
+<h3 align="center">Libraries & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/numpy-FF9ECD?style=flat-square&logo=numpy&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/pandas-FF9ECD?style=flat-square&logo=pandas&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/opencv-FF9ECD?style=flat-square&logo=opencv&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/streamlit-FF9ECD?style=flat-square&logo=streamlit&logoColor=2B0A3D&labelColor=2B0A3D" />
+  <img src="https://img.shields.io/badge/NumPy-FF6EC7?style=flat-square&logo=numpy&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/Pandas-FF6EC7?style=flat-square&logo=pandas&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/OpenCV-FF6EC7?style=flat-square&logo=opencv&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/Streamlit-FF6EC7?style=flat-square&logo=streamlit&logoColor=2b1250&labelColor=2b1250" />
 </p>
 
-<h3 align="center">tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/git-FF9ECD?style=flat-square&logo=git&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/github-FF9ECD?style=flat-square&logo=github&logoColor=2B0A3D&labelColor=2B0A3D" />
-  <img src="https://img.shields.io/badge/vs_code-FF9ECD?style=flat-square&logo=visualstudiocode&logoColor=2B0A3D&labelColor=2B0A3D" />
+  <img src="https://img.shields.io/badge/Git-FF6EC7?style=flat-square&logo=git&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/GitHub-FF6EC7?style=flat-square&logo=github&logoColor=2b1250&labelColor=2b1250" />
+  <img src="https://img.shields.io/badge/VS_Code-FF6EC7?style=flat-square&logo=visualstudiocode&logoColor=2b1250&labelColor=2b1250" />
 </p>
 
 <br>
 
-## patents
+## Patents
 
-**5 uk design patents** — robotics, autonomous systems &amp; mechanical design
-issued by the intellectual property office uk, dec 2025 · skills: autocad, 3d modeling, mechanical design
+**5 UK Design Patents** — Robotics, Autonomous Systems & Mechanical Design
+Issued by the Intellectual Property Office UK, Dec 2025 · Skills: AutoCAD, 3D Modeling, Mechanical Design
 
 <br>
 
-## things i've built
+## Things I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 autonomous vehicle system with lidar integration <i>(patent-backed)</i></h3>
-      <p>contributed to an autonomous vehicle prototype focused on lidar-based sensing, embedded interfacing, and system integration. associated with k.j. somaiya college of engineering.</p>
-      <img src="https://img.shields.io/badge/lidar-FF9ECD?style=flat-square&labelColor=2b1250" />
-      <img src="https://img.shields.io/badge/embedded_systems-FF9ECD?style=flat-square&labelColor=2b1250" />
-      <img src="https://img.shields.io/badge/arduino_ide-FF9ECD?style=flat-square&labelColor=2b1250" />
+      <h3>🚗 Autonomous Vehicle System with LiDAR Integration <i>(Patent-Backed)</i></h3>
+      <p>Contributed to an autonomous vehicle prototype focused on LiDAR-based sensing, embedded interfacing, and system integration. Associated with K.J. Somaiya College of Engineering.</p>
+      <img src="https://img.shields.io/badge/LiDAR-FF6EC7?style=flat-square&labelColor=2b1250" />
+      <img src="https://img.shields.io/badge/Embedded_Systems-FF6EC7?style=flat-square&labelColor=2b1250" />
+      <img src="https://img.shields.io/badge/Arduino_IDE-FF6EC7?style=flat-square&labelColor=2b1250" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/MeetaPatil/medialloc">medialloc</a></h3>
-      <p>streamlit app for smart hospital bed allocation using the fractional knapsack greedy algorithm.</p>
-      <img src="https://img.shields.io/badge/python-FF9ECD?style=flat-square&logo=python&logoColor=2B0A3D&labelColor=2B0A3D" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/MeetaPatil/RiskLens">risklens</a></h3>
-      <p>ai-powered portfolio stress testing &amp; risk analytics platform for quantitative finance and frm concepts.</p>
-      <img src="https://img.shields.io/badge/python-FF9ECD?style=flat-square&logo=python&logoColor=2B0A3D&labelColor=2B0A3D" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 <a href="https://github.com/MeetaPatil/Task-Manager-CLI-C">task-manager-cli-c</a></h3>
-      <p>cli task manager in c using a max-heap priority queue and an undo stack.</p>
-      <img src="https://img.shields.io/badge/c-FF9ECD?style=flat-square&logo=c&logoColor=2B0A3D&labelColor=2B0A3D" />
+      <h3>🏥 <a href="https://github.com/MeetaPatil/medialloc">Medialloc</a></h3>
+      <p>Streamlit app for smart hospital bed allocation using the Fractional Knapsack greedy algorithm.</p>
+      <img src="https://img.shields.io/badge/Python-FF6EC7?style=flat-square&logo=python&logoColor=2b1250&labelColor=2b1250" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/MeetaPatil/DigitalCSVWallet">digitalcsvwallet</a></h3>
-      <p>java swing desktop wallet app storing user/transaction data in csv files — secure login, deposits, withdrawals, and transfers.</p>
-      <img src="https://img.shields.io/badge/java-FF9ECD?style=flat-square&logo=openjdk&logoColor=2B0A3D&labelColor=2B0A3D" />
+      <h3>📊 <a href="https://github.com/MeetaPatil/RiskLens">RiskLens</a></h3>
+      <p>AI-powered portfolio stress testing & risk analytics platform for quantitative finance and FRM concepts.</p>
+      <img src="https://img.shields.io/badge/Python-FF6EC7?style=flat-square&logo=python&logoColor=2b1250&labelColor=2b1250" />
     </td>
     <td width="50%" valign="top">
-      <h3>📡 iot prototype on esp8266</h3>
-      <p>real-time data acquisition and communication system built at sani electronics; python-based sensor logging for improved data accuracy.</p>
-      <img src="https://img.shields.io/badge/esp8266-FF9ECD?style=flat-square&labelColor=2b1250" />
-      <img src="https://img.shields.io/badge/python-FF9ECD?style=flat-square&logo=python&logoColor=2B0A3D&labelColor=2B0A3D" />
+      <h3>📋 <a href="https://github.com/MeetaPatil/Task-Manager-CLI-C">Task-Manager-CLI-C</a></h3>
+      <p>CLI task manager in C using a max-heap priority queue and an undo stack.</p>
+      <img src="https://img.shields.io/badge/C-FF6EC7?style=flat-square&logo=c&logoColor=2b1250&labelColor=2b1250" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/MeetaPatil/DigitalCSVWallet">DigitalCSVWallet</a></h3>
+      <p>Java Swing desktop wallet app storing user/transaction data in CSV files — secure login, deposits, withdrawals, and transfers.</p>
+      <img src="https://img.shields.io/badge/Java-FF6EC7?style=flat-square&logo=openjdk&logoColor=2b1250&labelColor=2b1250" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 IoT Prototype on ESP8266</h3>
+      <p>Real-time data acquisition and communication system built at Sani Electronics; Python-based sensor logging for improved data accuracy.</p>
+      <img src="https://img.shields.io/badge/ESP8266-FF6EC7?style=flat-square&labelColor=2b1250" />
+      <img src="https://img.shields.io/badge/Python-FF6EC7?style=flat-square&logo=python&logoColor=2b1250&labelColor=2b1250" />
     </td>
   </tr>
 </table>
 
 <br>
 
-## education
+## Education
 
-**k.j. somaiya college of engineering** — b.tech, electronics and computer engineering <i>· 2024–2028</i>
-**rahul international school** — 12th grade, aissce <i>· 2024</i> — qualified jee mains &amp; advanced
+**K.J. Somaiya College of Engineering** — B.Tech, Electronics and Computer Engineering <i>· 2024–2028</i>
 
 <br>
 
-## languages
+## Languages
 
-english (native/bilingual) · french (limited working proficiency)
+English (Native/Bilingual) · French (Limited Working Proficiency)
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetaPatil&show_icons=true&theme=dark&hide_title=true&bg_color=2B0A3D&title_color=FF9ECD&icon_color=C9A8FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetaPatil&show_icons=true&theme=dark&hide_title=true&bg_color=2b1250&title_color=FF6EC7&icon_color=FF6EC7&text_color=FF6EC7" />
 </p>
